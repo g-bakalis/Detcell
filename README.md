@@ -11,7 +11,7 @@ Newer versions of the original 3 input feature ANN model or models with differen
 ## Running the code
 There are currently two jupyter notebooks (.ipynb) that are provided to run the code. For the V1_ANN_manual, the user provides the 3 input features to the relevant field in the notebook to  get a single prediction. For the V1_ANN_csv, the user has to provide the input features in a .csv file, simply created from an excel file saved as .csv. Multiple rows of data can be used to get to get multiple predictions at the same time. An example csv is provided. It is required to keep the first row with the column titles.  The output is located at the jupyter notebook.
 
-It is also possible to run this code online without installing any code using mybinder: 
+It is also possible to run this code online without installing any software using mybinder: 
 https://mybinder.org/v2/gh/g-bakalis/detcell/HEAD
 
 ## Model Inputs and outputs
