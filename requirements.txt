@@ -3,4 +3,4 @@ Keras==2.9.*
 numPy==1.21.*
 tensorflow==2.9.*
 keras_tuner==1.1.*
-scikit-learn==1.*.*
+scikit-learn
