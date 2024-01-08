@@ -18,8 +18,12 @@ https://mybinder.org/v2/gh/g-bakalis/detcell/HEAD
 ### Inputs
 As inputs, the following ZND parameters are necessary:
 - The Mach number
-- The Induction length(cm)
+- The Induction length (cm)
 - The maximum thermicity Sigma (1/sec)
+
+These inputs can be calculated using the Shock and Detonation Toolbox (https://shepherd.caltech.edu/EDL/PublicResources/sdt/) or any other software.
+
 
 ### Output
 - The detonation cell size (mm)
+
